@@ -115,10 +115,10 @@ const ContactSection = () => {
             <p className="text-gray-600 font-inter font-light">
               Or email me directly at:{' '}
               <a 
-                href="mailto:kiran.asha.kumari@gmail.com"
+                href="mailto:kiran.kumari@utexas.edu"
                 className="text-gray-800 hover:underline font-normal"
               >
-                kiran.asha.kumari@gmail.com
+                kiran.kumari@utexas.edu
               </a>
             </p>
           </div>
