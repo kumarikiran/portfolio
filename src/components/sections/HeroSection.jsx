@@ -81,7 +81,7 @@ const HeroSection = () => {
             {/* Social Media Links */}
             <div className="flex space-x-4">
               <a 
-                href="https://kumarikiran.github.io/ " 
+                href="https://github.com/kumarikiran" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-white/10 p-3 rounded-full hover:bg-white/20 transition-all duration-300"
