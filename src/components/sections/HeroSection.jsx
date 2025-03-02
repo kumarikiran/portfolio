@@ -18,8 +18,8 @@ const HeroSection = () => {
     },
     {
       icon: <FaLaptopCode size={24} />,
-      title: "Scientific Computing",
-      description: "Developing computational models for biological systems"
+      title: "Infectious Disease Epidemiology",
+      description: "Developing transmission models for simulating infection disease"
     }
   ];
 
@@ -49,7 +49,7 @@ const HeroSection = () => {
             </h1>
             <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-lg inline-block mb-4">
               <h2 className="text-2xl text-gray-200">Researcher</h2>
-              <p className="text-lg text-gray-300">Max Planck Institute of Infection Biology, Berlin</p>
+              <p className="text-lg text-gray-300">Max Planck Institute for Infection Biology, Berlin</p>
             </div>
 
             {/* Highlights Grid */}
