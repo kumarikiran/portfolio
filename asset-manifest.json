@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0aa7ba8c.css",
-    "main.js": "/portfolio/static/js/main.e2746190.js",
+    "main.js": "/portfolio/static/js/main.dc8ce748.js",
     "static/media/Sydney_2017.jpeg": "/portfolio/static/media/Sydney_2017.e24904f36ffa148b2942.jpeg",
     "static/media/profile.jpeg": "/portfolio/static/media/profile.907389a85881211484d5.jpeg",
     "static/media/background.jpeg": "/portfolio/static/media/background.c4a1981a2998aaf667f8.jpeg",
@@ -9,13 +9,13 @@
     "static/media/PhD_2021.jpeg": "/portfolio/static/media/PhD_2021.03cdad5288bb183722cb.jpeg",
     "static/media/APS_2023.jpeg": "/portfolio/static/media/APS_2023.6f2f5d8581198f5a931b.jpeg",
     "static/media/Vienna_2021.jpeg": "/portfolio/static/media/Vienna_2021.11c5812c74036ecb64d0.jpeg",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.361a6cbf0032d6c8b64f.pdf",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.e521956684f5241fa7ae.pdf",
     "index.html": "/portfolio/index.html",
     "main.0aa7ba8c.css.map": "/portfolio/static/css/main.0aa7ba8c.css.map",
-    "main.e2746190.js.map": "/portfolio/static/js/main.e2746190.js.map"
+    "main.dc8ce748.js.map": "/portfolio/static/js/main.dc8ce748.js.map"
   },
   "entrypoints": [
     "static/css/main.0aa7ba8c.css",
-    "static/js/main.e2746190.js"
+    "static/js/main.dc8ce748.js"
   ]
 }
