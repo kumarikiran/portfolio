@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0aa7ba8c.css",
-    "main.js": "/portfolio/static/js/main.dc8ce748.js",
+    "main.js": "/portfolio/static/js/main.6caf6500.js",
     "static/media/Sydney_2017.jpeg": "/portfolio/static/media/Sydney_2017.e24904f36ffa148b2942.jpeg",
     "static/media/profile.jpeg": "/portfolio/static/media/profile.907389a85881211484d5.jpeg",
     "static/media/background.jpeg": "/portfolio/static/media/background.c4a1981a2998aaf667f8.jpeg",
@@ -12,10 +12,10 @@
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.e521956684f5241fa7ae.pdf",
     "index.html": "/portfolio/index.html",
     "main.0aa7ba8c.css.map": "/portfolio/static/css/main.0aa7ba8c.css.map",
-    "main.dc8ce748.js.map": "/portfolio/static/js/main.dc8ce748.js.map"
+    "main.6caf6500.js.map": "/portfolio/static/js/main.6caf6500.js.map"
   },
   "entrypoints": [
     "static/css/main.0aa7ba8c.css",
-    "static/js/main.dc8ce748.js"
+    "static/js/main.6caf6500.js"
   ]
 }
