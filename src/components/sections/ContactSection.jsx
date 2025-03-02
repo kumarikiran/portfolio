@@ -7,7 +7,7 @@ const ContactSection = () => {
 
         <div className="bg-white rounded-lg shadow-md p-8">
           <form 
-            action={`mailto:kiran.asha.kumari@gmail.com`}
+            action={`mailto:kiran.kumari@utexas.edu`}
             method="POST"
             encType="text/plain"
             className="space-y-6 font-inter"
